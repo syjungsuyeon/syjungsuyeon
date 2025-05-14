@@ -1,4 +1,5 @@
 # Hi there 👋
+<br/>
 Hello, World!
 I'm Suyeon Jung
 <br/>
@@ -9,9 +10,6 @@ I'm Suyeon Jung
 - 💬 노션에 학습 기록과 문제 해결 과정을 작성하고 있습니다.
 - 🎓 소프트웨어학과 전공 | 클라우드와 풀스택 웹 개발에 관심이 많습니다.
 
-<br/>
-
-## 🛠️ Languages and Tools
 <br/>
 
 ## 🛠️ Languages and Tools
