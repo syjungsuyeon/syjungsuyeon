@@ -1,7 +1,8 @@
 # Hi there 👋
 Hello, World!
 I'm Suyeon Jung
-<br/>
+
+<br/><br/>
 
 ## 🧑 About Me
 - 🔭 프로젝트 진행 중...
